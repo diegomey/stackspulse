@@ -1,5 +1,11 @@
 # @stackspulse/server
 
+## 0.15.0
+
+### Minor Changes
+
+- 51cf12d: Create new `/tokens/transaction-volume` route.
+
 ## 0.14.3
 
 ### Patch Changes
